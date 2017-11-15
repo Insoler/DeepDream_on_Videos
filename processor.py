@@ -1,7 +1,5 @@
 ''' This module extracts frames a Video
-performs preprocessing on the frames and stores them in a Numpy array for
-furthur use by the spatiotemporal autoencoder
-
+performs preprocessing on the frames 
 ___________________________________________________________________
 
 Dependencies: ffmpeg
